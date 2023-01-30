@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainbody{
+    width: 100%;
+    height: 100vh;
+
+}
+.head1{
+    width: 100%;
+    height: 70px;
+    background-color:black; 
+    display: flex;
+    flex-direction: row;
+    
+}
+.img17{
+    padding-left: 65px;
+    padding-top: 15px;
+    height: fit-content;
+}
+.search{
+    width: 550px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;  
+}
+.location{
+    margin-left: 300px;
+    margin-top: 25px;  
+}
+.location1{
+    background-color:black; 
+    color: white;
+    font-size: 18px;
+}
+.signin{
+ margin-top: 25px;
+ margin-left: 35px;
+}
+.signin1{
+    color:white;
+    background-color: red;
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+}
+.head2left{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.mvs{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.mvs1{
+    background:rgb(27, 27, 27) ;
+    color: white;
+}
+.lst{
+    margin-left:550px;
+    margin-top: 10px;
+}
+.lst1{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.bttn{
+    background-color: black;
+    color: white;
+}
+.cover{
+ 
+    width: 100%;
+}
+.imgg{
+    padding: 20px;
+}
+.imgg1{
+    padding: 50px;
+}
+.reccm{
+    margin-left: 20px;
+}
+.best{
+    margin-left: 20px;
+}
+.imgg2{
+    padding: 20px;
+}
+.prmr{
+    margin-left: 20px;
+}
+.imgg3{
+    padding: 20px;
+}
+.head3{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: 40px;
+   
+}
+.bttn4{
+    background:rgb(27, 27, 27) ;
+    color: white;
+    margin-left: 1200px;
+    transform: translate(0%,-70%);
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 100px;
+
+}
+.para{
+    
+    color: white;
+    margin-left: 50px;
+    padding-top: 30px;
+
+   
+}
